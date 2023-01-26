@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3f340bb-ccd5-475e-ad9c-abf453db7afe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/K1P-162806/directory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/K1P-162806/elementy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/K1P-162806/file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PO-162806-zaliczenia.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PO-162806-zaliczenia.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,5 +100,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
